@@ -1,0 +1,11 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "Vishakha's sample project for learning git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishakha",
+  "license": "ISC"
+}
